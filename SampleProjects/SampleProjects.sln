@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangfireSampleApp", "HangfireSampleApp\HangfireSampleApp.csproj", "{6BCAF047-1986-4B05-AB73-EA1DD76AF5D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingBasic", "TestingBasic\TestingBasic.csproj", "{994B5182-9E99-4C22-91A5-386FEFB1A13D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingBasic.Test", "TestingBasic.Test\TestingBasic.Test.csproj", "{C917E3AF-512F-4943-AD18-7CE9293E170C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCAF047-1986-4B05-AB73-EA1DD76AF5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCAF047-1986-4B05-AB73-EA1DD76AF5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCAF047-1986-4B05-AB73-EA1DD76AF5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCAF047-1986-4B05-AB73-EA1DD76AF5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{994B5182-9E99-4C22-91A5-386FEFB1A13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994B5182-9E99-4C22-91A5-386FEFB1A13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994B5182-9E99-4C22-91A5-386FEFB1A13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994B5182-9E99-4C22-91A5-386FEFB1A13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C917E3AF-512F-4943-AD18-7CE9293E170C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C917E3AF-512F-4943-AD18-7CE9293E170C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C917E3AF-512F-4943-AD18-7CE9293E170C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C917E3AF-512F-4943-AD18-7CE9293E170C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
